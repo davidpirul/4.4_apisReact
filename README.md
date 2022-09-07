@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
 This project was deploy with [Vercel](https://4-4-apis-react.vercel.app/).\
-Also i was create explaining [Video](https://youtu.be/3-LOq--iUnw).\
+Also i was create explaining [Video](https://youtu.be/3-LOq--iUnw).
 
 ## Available Scripts
 
